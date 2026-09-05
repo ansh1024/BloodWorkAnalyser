@@ -1,0 +1,90 @@
+BLOODWORK REPORT
+Patient: Ansh Zamde
+Age: 21 Years
+Sex: Male
+Ref. ID: 082624604745
+Collected: 24-Aug-2026
+Sample Types: EDTA blood / Serum
+
+COMPLETE BLOOD COUNT (CBC)
+
+Hemoglobin: 14.8 g/dL
+Reference interval: 13.0 - 16.5 g/dL
+
+RBC Count: 5.31 million/cmm
+Reference interval: 4.5 - 5.5 million/cmm
+
+Hematocrit: 44.7 %
+Reference interval: 40 - 49 %
+
+MCV: 84.2 fL
+Reference interval: 83 - 101 fL
+
+MCH: 27.9 pg
+Reference interval: 27.1 - 32.5 pg
+
+MCHC: 33.1 g/dL
+Reference interval: 32.5 - 36.7 g/dL
+
+RDW-CV: 12.20 %
+Reference interval: 11.6 - 14 %
+
+Total WBC Count: 8180 /cmm
+Reference interval: 4000 - 10000 /cmm
+
+Differential Count:
+Neutrophils: 40.8 %
+Reference interval: 40 - 80 %
+
+Lymphocytes: 44.9 %
+Reference interval: 20 - 40 %
+
+Eosinophils: 6.6 %
+Reference interval: 1 - 6 %
+
+Monocytes: 7.7 %
+Reference interval: 2 - 10 %
+
+Basophils: 0 %
+Reference interval: 0 - 2 %
+
+Absolute Neutrophil Count: 3337 /cmm
+Reference interval: 2000 - 6700 /cmm
+
+Absolute Lymphocyte Count: 3673 /cmm
+Reference interval: 1100 - 3300 /cmm
+
+Absolute Eosinophil Count: 540 /cmm
+Reference interval: 0 - 400 /cmm
+
+Absolute Monocyte Count: 630 /cmm
+Reference interval: 200 - 700 /cmm
+
+Absolute Basophil Count: 0 /cmm
+Reference interval: 0 - 100 /cmm
+
+Platelet Count: 265000 /cmm
+Reference interval: 150000 - 410000 /cmm
+
+MPV: 8.30 fL
+Reference interval: 7.5 - 10.3 fL
+
+PERIPHERAL SMEAR EXAMINATION
+
+RBC Morphology: Normochromic, normocytic RBC seen
+WBC Morphology: Reactive lymphocytes, eosinophils
+Platelet Morphology: Platelets are adequate on smear
+Malarial Parasite: Not detected
+
+C-REACTIVE PROTEIN (CRP)
+
+CRP: 3.60 mg/L
+Reference interval: 0 - 5 mg/L
+Method: Immunoturbidometry
+
+REPORT DETAILS
+
+Status: Final
+Sample: Serum for CRP; EDTA blood for CBC
+Location: Indore, MP
+Approved: 24-Aug-2026
